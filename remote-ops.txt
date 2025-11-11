@@ -1,1 +1,2 @@
 # Remote Operations practice
+This line was added directly in github
